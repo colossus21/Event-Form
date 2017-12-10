@@ -1,7 +1,6 @@
 # Event Order Form width Budget Estimation
 
-VueJS - VueStrap, Vue-Reource, VueFire
-Firebase - Auth, Realtime Database
+VueJS is used for front-end and FireBase for storing data. Firebase AUTH is implemented for user authentication.
 
 ## Build Setup
 
