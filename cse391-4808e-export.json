@@ -1,0 +1,53 @@
+{
+  "UserInfo" : {
+    "vZNuJE7u6zXJan2XsJGnXgyYeZG3" : {
+      "address" : "Uttara",
+      "name" : "Afro Jack",
+      "phone" : "01723335418"
+    }
+  },
+  "venues": [
+    { "text": "Hotel Lakeshore", "value": 0, "halls":
+    [
+      {"text":'La-Vita Banquet Hall', "value":0, "base":8000, size:3350, "capacity":500, "hourly":5000},
+      {"text":'Alap Meeting Room', "value":1, "base":5000, size:300 , "capacity":80, "hourly":1500},
+      {"text":'Shamadhan Banquet Hall', "value":2, "base":5000, size:1221, "capacity":120, "hourly":2800}
+    ]
+    },
+    { "text": 'Radisson Blu', "value": 1, "halls":
+    [
+      {"text":'The Inis Mór Ballroom', "value":0, "base":50000, size:8900, "capacity":990, "hourly":8000},
+      {"text":'Veranda Lounge Boardroom', "value":1, "base":35000, size:3520 , "capacity":230, "hourly":7000}
+    ]
+    },
+    { "text": 'Le Meridien', "value": 2, "halls":
+    [
+      {"text":'Shubeccha Hall', "value":0, "base":30000, size:2100, "capacity":220, "hourly":3500},
+      {"text":'Executive Meeting Room', "value":1, "base":50000, size:1200 , "capacity":80, "hourly":2500},
+      {"text":'Central Hall', "value":2, "base":45000, size:9100, "capacity":1050, "hourly":5000},
+      {"text":'Rooftop (Full)', "value":3, "base":75000, size:9150 , "capacity":1100, "hourly":1200}
+    ]
+    },
+    { "text": 'The Westin', "value": '3', "halls":
+    [
+      {"text":'Cadillac Detroit', "value":0, "base":60000, size:7579, "capacity":860, "hourly":5500},
+      {"text":'Woodward Ballroom', "value":1, "base":52000, size:6900 , "capacity":665, "hourly":7800},
+      {"text":'Esquire Room', "value":2, "base":12000, size:946, "capacity":75, "hourly":950}
+    ]
+    },
+    { "text": 'Dhaka Regency', "value": '4', "halls":
+    [
+      {"text":'Royal Suite', "value":0, "base":11000, size:5350, "capacity":500 , "hourly":1300},
+      {"text":'Regency Premium', "value":1, "base":5000, size:1331 , "capacity":120, "hourly":1500},
+      {"text":'Luxury Studio', "value":2, "base":15000, size:4600, "capacity":380, "hourly":1500}
+    ]
+    },
+    { "text": 'Mainland China', "value": '5', "halls":
+    [
+      {"text":'Whole Floor', "value":0, "base":10000, size:6250, "capacity":580, "hourly":1000},
+      {"text":'Block A', "value":1, "base":6000, size:2120, "capacity":250, "hourly":1000},
+      {"text":'Block B', "value":2, "base":5700, "size":1785, "capacity":195, "hourly":1000}
+    ]
+    }
+  ]
+}
