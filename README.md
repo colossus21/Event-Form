@@ -1,6 +1,7 @@
-# cse391
+# Event Order Form width Budget Estimation
 
-> Assignment of cse391
+VueJS - VueStrap, Vue-Reource, VueFire
+Firebase - Auth, Realtime Database
 
 ## Build Setup
 
@@ -15,4 +16,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![Form Demo](/screenshots/1.png?raw=true "Form Demo 1")
