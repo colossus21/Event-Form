@@ -37,11 +37,11 @@ const router = new VueRouter({
     routes
 })
 
-let config = {apiKey: 'AIzaSyBheytMOL89gaxMPznek96VYoWvvHJo3wI',
-    authDomain: 'cse391-4808e.firebaseapp.com',
-    databaseURL: 'https://cse391-4808e.firebaseio.com',
-    projectId: 'cse391-4808e',
-    storageBucket: 'cse391-4808e.appspot.com'}
+let config = {apiKey: '#YourFirebaseAPI',
+    authDomain: '#authDomain',
+    databaseURL: '#databaseURL',
+    projectId: '#projectID',
+    storageBucket: '#storateBucket'}
 
 let app = Firebase.initializeApp(config)
 
